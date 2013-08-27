@@ -1,6 +1,6 @@
 === Simple Ads Posting ===
 Contributors: rosdyana.kusuma
-Donate link: paypal@r3m1ck.us
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=paypal%40r3m1ck%2eus&lc=US&item_name=Wordpress%20Plugin&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest
 Tags: ads, ads manager, ad, adsense, adsense insertion, advertising, google adsense, google, chitika, plugin, post, text insertion, wordpress plugin, ads serving, posting ads
 Requires at least: 3.0.1
 Tested up to: 3.4
@@ -18,7 +18,7 @@ With this plugin you can place your ads inside your posting. Try it and feel the
 
 == Installation ==
 
-1. Upload `simple-ads-posting.php` to the `/wp-content/plugins/` directory.
+1. Upload `simple-ads-posting.zip` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Plugin setting to set your Ads Code.
 4. Place "[ads]" (without quote) or "[ads2]" (without quote) to your posting.
