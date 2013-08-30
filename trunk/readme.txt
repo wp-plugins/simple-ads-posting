@@ -34,9 +34,15 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 
 == Changelog ==
 
+= 1.0.1 =
+* fix some bugs
+* 31 August 2013
+
 = 1.0.0 =
 * Initial public release
-* 23 Agustus 2013
+* 23 August 2013
 
 == Upgrade Notice ==
-There are no update for first version
+
+= 1.0.1 = 
+* fix some bugs
