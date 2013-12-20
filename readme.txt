@@ -34,6 +34,11 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 
 == Changelog ==
 
+= 1.0.2 = 
+* add Localization code
+* fix bugs
+* 20 December 2013
+
 = 1.0.1 =
 * fix some bugs
 * 31 August 2013
@@ -47,6 +52,6 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 = 1.0.1 = 
 * fix some bugs
 
-= 1.0.1 =
+= 1.0.2 =
 * add Localization code
 * fix bugs
