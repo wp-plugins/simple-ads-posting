@@ -71,14 +71,10 @@
 	'.'<h2>' . __('Simple Ads Setting Page!', 'SAP') . '</h2>' .'
 	' . wp_nonce_field('update-options') . '
 	'.'<h3>' . __('Put your ads code for ads number 1 here','SAP').'</h3>'.'
-	<textarea name="ads_code" rows="9" cols="80">
-	' . $ads_cod . '
-	</textarea> 
+	<textarea name="ads_code" rows="9" cols="80">' . $ads_cod . '</textarea> 
 	<br>
 	'.'<h3>' . __('Put your ads code for ads number 2 here','SAP').'</h3>'.'
-	<textarea name="ads_code2" rows="9" cols="80">
-	' . $ads_cod2 . '
-	</textarea> 
+	<textarea name="ads_code2" rows="9" cols="80">' . $ads_cod2 . '</textarea> 
 	 <input type="hidden" name="action" value="update" />
 
 	 <input type="hidden" name="page_options" value="ads_code,ads_code2" />
