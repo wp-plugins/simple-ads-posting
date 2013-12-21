@@ -34,6 +34,9 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 
 == Changelog ==
 
+= 1.0.3
+* 21 December 2013
+
 = 1.0.2a =
 * fix localization code
 * add Indonesia language
@@ -64,3 +67,6 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 = 1.0.2a =
 * fix localization code
 * add Indonesia language
+
+= 1.0.3
+* release version 1.0.3
