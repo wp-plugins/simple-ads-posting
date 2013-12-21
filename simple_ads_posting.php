@@ -15,15 +15,12 @@
 		exit;
 	}
 
-	//add localization
-	load_plugin_textdomain( 'SAP', false, '/' . basename(dirname(__FILE__)) . '/languages/' );
-	
+	add_action('init', 'simple_ads_init');
 	//init
 	function simple_ads_init() {
 		// Localization
-		load_plugin_textdomain('domain', false, dirname(plugin_basename(__FILE__)));
+		load_plugin_textdomain('SAP', false, dirname(plugin_basename(__FILE__)) . '/languages/');
 	}
-	add_action('init', 'simple_ads_init');
 
 	// register the admin menu settings for plugin settings
 	add_action('admin_menu', 'simple_ads_admin_actions');

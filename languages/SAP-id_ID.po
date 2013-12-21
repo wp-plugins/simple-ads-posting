@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Simple Ads Posting\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-20 21:45+0700\n"
-"PO-Revision-Date: 2013-12-20 21:47+0700\n"
+"POT-Creation-Date: 2013-12-21 16:02+0700\n"
+"PO-Revision-Date: 2013-12-21 16:03+0700\n"
 "Last-Translator: Bobby Smith <bobby@reality66.com>\n"
 "Language-Team: \n"
 "Language: id_ID\n"
@@ -15,33 +15,40 @@ msgstr ""
 "X-Generator: Poedit 1.6.2\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../simple_ads_posting.php:71
+#: ../simple_ads_posting.php:68
 msgid "Simple Ads Setting Page!"
-msgstr ""
+msgstr "Halaman Pengaturan Simple Ads!"
+
+#: ../simple_ads_posting.php:70
+msgid "Put your ads code for ads number 1 here"
+msgstr "Letakan kode iklan pertama anda disini."
 
 #: ../simple_ads_posting.php:73
-msgid "Put your ads code for ads number 1 here"
-msgstr ""
-
-#: ../simple_ads_posting.php:78
 msgid "Put your ads code for ads number 2 here"
-msgstr ""
+msgstr "Letakan kode iklan kedua anda disini."
 
-#: ../simple_ads_posting.php:86
+#: ../simple_ads_posting.php:79
 msgid "Save Changes"
-msgstr ""
+msgstr "Simpan Perubahan"
 
-#: ../simple_ads_posting.php:88
+#: ../simple_ads_posting.php:81
 msgid "How to use ?"
-msgstr ""
+msgstr "Cara Pemakaian :"
 
-#: ../simple_ads_posting.php:89
+#: ../simple_ads_posting.php:82
 msgid ""
 "<p><cite>just insert </cite> \"<b>[ads]</b>\" <cite>(without quote) in your "
 "post for ads number 1 or </cite> \"<b>[ads2]</b>\" <cite>(without quote) for "
 "ads number 2 in your post.</cite></p>"
 msgstr ""
+"<p><cite>tambahkan</cite>\"<b>[ads]</b>\" <cite>(tanpa sepasi) di tulisan "
+"anda untuk iklan pertama atau </cite> \"<b>[ads2]</b>\" <cite>(tanpa sepasi) "
+"untuk iklan kedua di tulisan anda.</cite></p>"
 
-#: ../simple_ads_posting.php:90
+#: ../simple_ads_posting.php:83
 msgid "Contact me"
-msgstr ""
+msgstr "Hubungi saya"
+
+#, fuzzy
+#~ msgid "Simple Ads Setting"
+#~ msgstr "asdasdasd"
