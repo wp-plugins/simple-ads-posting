@@ -3,7 +3,7 @@
    Plugin Name: Simple Ads Post
    Plugin URI: http://wordpress.org/plugins/simple-ads-posting
    Description: a plugin to show ads of adsense, chitika ,etc then you can put it into anywhere in your posting as you wish :) 
-   Version: 1.0.4a
+   Version: 1.0.5
    Author: Rosdyana Kusuma
    Author URI: http://r3m1ck.us/about
    License: GPL2
