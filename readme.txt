@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-nowadays, much blogger monetize their blogs with ads serving like Adsense, Chitika and etc. 
+Nowadays, much blogger monetize their blogs with ads serving like Adsense, Chitika and etc. 
 One of the key to get success on playing Ads serving is the layout of ads. 
 As we know the content of our blog is the main things so, we must place the ads arround the content, like in the middle , top or bottom. 
 With this plugin you can place your ads inside your posting. Try it and feel the different income :D
@@ -33,6 +33,7 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 2. Screen shot for posting page, put the shortcode [ads] or [ads2] any place in your posting as you wish.
 
 == Changelog ==
+
 = 1.0.4 =
 * add Spanish Localization - thanks to Maria Ramos
 * new layout
