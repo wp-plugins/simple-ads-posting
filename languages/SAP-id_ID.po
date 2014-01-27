@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Simple Ads Posting\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-21 16:02+0700\n"
-"PO-Revision-Date: 2013-12-21 16:14+0700\n"
+"POT-Creation-Date: 2014-01-28 01:46+0700\n"
+"PO-Revision-Date: 2014-01-28 01:48+0700\n"
 "Last-Translator: Bobby Smith <bobby@reality66.com>\n"
 "Language-Team: \n"
 "Language: id_ID\n"
@@ -12,30 +12,78 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.6.2\n"
+"X-Generator: Poedit 1.6.3\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../simple_ads_posting.php:68
+#: ../simple-ads-admin.php:20
+msgid "Home"
+msgstr "Menu Utama"
+
+#: ../simple-ads-admin.php:21 ../simple-ads-credit.php:7
+msgid "Credit"
+msgstr "Informasi"
+
+#: ../simple-ads-credit.php:8
+msgid ""
+"Simple-Ads-Posting is one of my utility for my own project. I using this "
+"plugin to manage ads from Google Adsense or Chitika. Long time ago I usually "
+"modify my theme to adding ads, then I think with a plugin will be easier to "
+"manage the ads. Someday my friend ask me to relase this plugin, and maybe "
+"you need this to helps you. I am personally thanking all of the users who "
+"use this plugin. Also thanks to all of the translators and the generous "
+"people who have donated for this project"
+msgstr ""
+"Simple-Ads-Posting adalah salah satu alat bantu untuk projek saya. Saya "
+"menggunakan plugin ini untuk mengatur tampilan iklan dari Google Adsense "
+"atau Chitika. Sebelumnya, saya mengubah kode di theme untuk menambahkan "
+"iklan, kemudian saya pikir dengan sebuah plugin ini akan lebih mudah untuk "
+"mengatur iklan. Suatu hari teman saya meminta untuk merilis plugin ini, dan "
+"mungkin plugin ini dapat membantu kalian yang membutuhkan. Saya secara "
+"pribadi sangat berterimakasih kepada pengguna plugin ini. dan juga terima "
+"kasih banyak untuk penerjemah dan orang dermawan yang mendonasikan sedikit "
+"dollar untuk projek ini."
+
+#: ../simple-ads-credit.php:10
+msgid "Translator"
+msgstr "Penerjemah"
+
+#: ../simple-ads-credit.php:11
+msgid "Spanish Translator - Maria Ramos"
+msgstr "Penerjemah Bahasa Spanyol - Maria Ramos"
+
+#: ../simple-ads-credit.php:12
+msgid "Indonesian Translator - Rosdyana Kusuma"
+msgstr "Penerjemah Bahasa Indonesia - Rosdyana Kusuma"
+
+#: ../simple-ads-credit.php:13
+msgid "Javanese Translator - Rosdyana Kusuma"
+msgstr "Penerjemah Bahasa Jawa -  Rosdyana Kusuma"
+
+#: ../simple-ads-credit.php:15 ../simple-ads-main.php:26
+msgid "Contact me"
+msgstr "Hubungi saya"
+
+#: ../simple-ads-main.php:11
 msgid "Simple Ads Setting Page!"
 msgstr "Halaman Pengaturan Simple Ads!"
 
-#: ../simple_ads_posting.php:70
+#: ../simple-ads-main.php:13
 msgid "Put your ads code for ads number 1 here"
 msgstr "Letakan kode iklan pertama anda disini."
 
-#: ../simple_ads_posting.php:73
+#: ../simple-ads-main.php:16
 msgid "Put your ads code for ads number 2 here"
 msgstr "Letakan kode iklan kedua anda disini."
 
-#: ../simple_ads_posting.php:79
+#: ../simple-ads-main.php:22
 msgid "Save Changes"
 msgstr "Simpan Perubahan"
 
-#: ../simple_ads_posting.php:81
+#: ../simple-ads-main.php:24
 msgid "How to use ?"
 msgstr "Cara Pemakaian :"
 
-#: ../simple_ads_posting.php:82
+#: ../simple-ads-main.php:25
 msgid ""
 "<p><cite>just insert </cite> \"<b>[ads]</b>\" <cite>(without quote) in your "
 "post for ads number 1 or </cite> \"<b>[ads2]</b>\" <cite>(without quote) for "
@@ -44,10 +92,6 @@ msgstr ""
 "<p><cite>tambahkan</cite>\"<b>[ads]</b>\" <cite>(tanpa tanda petik) di "
 "tulisan anda untuk iklan pertama atau </cite> \"<b>[ads2]</b>\" <cite>(tanpa "
 "tanda petik) untuk iklan kedua di tulisan anda.</cite></p>"
-
-#: ../simple_ads_posting.php:83
-msgid "Contact me"
-msgstr "Hubungi saya"
 
 #, fuzzy
 #~ msgid "Simple Ads Setting"

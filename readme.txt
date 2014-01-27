@@ -33,6 +33,10 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 2. Screen shot for posting page, put the shortcode [ads] or [ads2] any place in your posting as you wish.
 
 == Changelog ==
+= 1.0.4
+* add Spanish Localization - thanks to Maria Ramos
+* new layout
+* 28 January 2014
 
 = 1.0.3
 * 21 December 2013
@@ -70,3 +74,7 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 
 = 1.0.3
 * release version 1.0.3
+
+= 1.0.4
+* add localization
+* new layout

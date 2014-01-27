@@ -1,0 +1,65 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Ads Posting\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simple-ads-posting\n"
+"POT-Creation-Date: 2014-01-28 01:30+0700\n"
+"PO-Revision-Date: 2014-01-28 01:39+0700\n"
+"Last-Translator: \n"
+"Language-Team: Maria Ramos <mariar@webhostinghub.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../simple-ads-admin.php:20
+msgid "Home"
+msgstr "Página Principal"
+
+#: ../simple-ads-admin.php:21 ../simple-ads-credit.php:7
+msgid "Credit"
+msgstr "Info"
+
+#: ../simple-ads-credit.php:9
+msgid "Translator"
+msgstr "Traductor"
+
+#: ../simple-ads-credit.php:11 ../simple-ads-main.php:26
+msgid "Contact me"
+msgstr "Contácteme"
+
+#: ../simple-ads-main.php:11
+msgid "Simple Ads Setting Page!"
+msgstr "¡Página Configuración Anuncios sencillos!"
+
+#: ../simple-ads-main.php:13
+msgid "Put your ads code for ads number 1 here"
+msgstr "Ponga su código de anuncios para los anuncios número 1 aquí"
+
+#: ../simple-ads-main.php:16
+msgid "Put your ads code for ads number 2 here"
+msgstr "Ponga su código de anuncios para los anuncios número 2 aquí"
+
+#: ../simple-ads-main.php:22
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ../simple-ads-main.php:24
+msgid "How to use ?"
+msgstr "¿Cómo usarlo?"
+
+#: ../simple-ads-main.php:25
+msgid ""
+"<p><cite>just insert </cite> \"<b>[ads]</b>\" <cite>(without quote) in your "
+"post for ads number 1 or </cite> \"<b>[ads2]</b>\" <cite>(without quote) for "
+"ads number 2 in your post.</cite></p>"
+msgstr ""
+"Sólo inserte \"[ads]\" (sin las comillas) en su publicación para los "
+"anuncios número 1 o \" [ads2] \" (sin las comillas) para los anuncios número "
+"2 en su publicación."
