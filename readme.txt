@@ -34,6 +34,10 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 
 == Changelog ==
 
+= 1.0.4a =
+* edit layout
+* 28 January 2014
+
 = 1.0.4 =
 * add Spanish Localization - thanks to Maria Ramos
 * new layout
@@ -79,3 +83,6 @@ Please feedback to [admin@r3m1ck.us] for any bug you might have found, or any su
 = 1.0.4 =
 * add localization
 * new layout
+
+= 1.0.4a =
+* edit layout

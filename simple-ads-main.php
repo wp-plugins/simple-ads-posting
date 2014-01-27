@@ -30,11 +30,6 @@ if ('simple-ads-main.php' == basename($_SERVER['SCRIPT_FILENAME']))
 
 		'.'<h3>'. __('How to use ?','SAP').'</h3>'.'
 		'.__('<p><cite>just insert </cite> "<b>[ads]</b>" <cite>(without quote) in your post for ads number 1 or </cite> "<b>[ads2]</b>" <cite>(without quote) for ads number 2 in your post.</cite></p>','SAP').'
-		'.'<h3>'.__('Contact me','SAP').'</h3>'.'
-			<a href="mailto:admin@r3m1ck.us" target="_blank"><img src="' . plugins_url( 'images/email.png' , __FILE__ ) . '" alt="mail"/></a>
-			<a href="https://plus.google.com/u/0/115883076446540246884/posts" target="_blank"><img src="' . plugins_url( 'images/gplus.png' , __FILE__ ) . '" alt="google"/></a>
-			<a href="https://twitter.com/XremickX" target="_blank"><img src="' . plugins_url( 'images/twitter.png' , __FILE__ ) . '" alt="twitter"/></a>
-		<pre>
 		';
 		echo $html;
 ?>
