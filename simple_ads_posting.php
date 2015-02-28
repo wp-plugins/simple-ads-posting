@@ -3,7 +3,7 @@
    Plugin Name: Simple Ads Post
    Plugin URI: http://wordpress.org/plugins/simple-ads-posting
    Description: a plugin to show ads of adsense, chitika ,etc then you can put it into anywhere in your posting as you wish :) 
-   Version: 1.0.5
+   Version: 1.0.6
    Author: Rosdyana Kusuma
    Author URI: http://r3m1ck.us/about
    License: GPL2
@@ -61,17 +61,23 @@
 	//
 
 	// register the shortcode to wrap html around the content
-	function simple_ads_shortcode(){
+	add_action('init', 'add_simple_ads_shortcode', 99);
+	function add_simple_ads_shortcode(){
+		add_shortcode ('ads', 'simple_ads_shortcode');
+	}
+	function simple_ads_shortcode($attr){
 		$get_cod = get_option('ads_code');
 		return $get_cod;  
 	}
-	add_shortcode ('ads', 'simple_ads_shortcode');
-
+	
+	add_action('init', 'add_simple_ads_shortcode2', 98);
+	function add_simple_ads_shortcode2(){
+		add_shortcode ('ads2', 'simple_ads_shortcode2');
+	}
 	function simple_ads_shortcode2(){
 		$get_cod2 = get_option('ads_code2');
 		return $get_cod2;  
 	}
-	add_shortcode ('ads2', 'simple_ads_shortcode2');
 	//
 
 ?>
